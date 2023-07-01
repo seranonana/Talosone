@@ -1,0 +1,2 @@
+# Talosone
+Talos (training session)
